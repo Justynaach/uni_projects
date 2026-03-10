@@ -1,1 +1,1 @@
-Wybrane projekty z zajęć ze studiów.
+C++ Programming and Algorithmic Foundations. Data Structures and Academic Projects.
